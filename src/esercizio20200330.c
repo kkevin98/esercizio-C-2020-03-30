@@ -45,7 +45,7 @@ unsigned int maxfibonacci_interno(unsigned int n){
 int maxfibonacci(){
 	return maxfibonacci_interno(0);
 }
-faccenda troppo lunga
+
 */
 
 
